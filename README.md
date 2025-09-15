@@ -55,7 +55,7 @@ The system is intended as a reference implementation and rapid prototype. It is 
       |
    Gradio UI
       |
-   Chat Controller (LangChain + LangGraph)
+   Chat Controller (LangChain)
       |                  ↘
   SQLite (patients/doctors/appointments)   RAG Retrieval (HF embeddings + FAISS)
       |                                         |
@@ -83,7 +83,7 @@ Notes:
 ---
 
 ## Requirements
-- Python 3.8 or newer
+- Python 3.11 or newer
 - `pip` (recommended to use within a virtualenv)
 - Google Gemini API key (for LLM access)
 
@@ -93,8 +93,8 @@ Notes:
 
 ```bash
 # clone the repo
-git clone https://github.com/your-org/medical-healthcare-chatbot.git
-cd medical-healthcare-chatbot
+git clone https://github.com/Bilal-Ahmad-5/Medical-Assistance.git
+cd Medical-Assitance
 
 # create virtual environment (recommended)
 python -m venv .venv
