@@ -1,4 +1,4 @@
-# Medical Healthcare Chatbot
+# Medical (Healthcare) Chatbot
 
 A production-oriented **Healthcare Chatbot** that combines conversational AI with a lightweight clinical database and a Retrieval-Augmented Generation (RAG) knowledge base. The system is designed to assist patients and staff with appointment management, doctor discovery, and authoritative information about *Medical City Hospital*.
 
@@ -93,7 +93,7 @@ Notes:
 
 ```bash
 # clone the repo
-git clone https://github.com/Bilal-Ahmad-5/Medical-Assistance.git
+git clone https://github.com/Bilal-Ahmad-5/Medical-Assistant.git
 cd Medical-Assitance
 
 # create virtual environment (recommended)
